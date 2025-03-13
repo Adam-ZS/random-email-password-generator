@@ -53,4 +53,4 @@ with open("generated_emails.txt", "w") as file:
         file.write(f"{email}:{password}\n")
 
 print("The email-password combinations have been saved to 'generated_emails.txt'.")
-input("Did you finish copying?")
+input("©Adam-ZS______Bye Bye :)")
