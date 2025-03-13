@@ -1,5 +1,5 @@
 # Random Email and Password Generator 💻🔑
-This Python script generates random email-password combinations using a list of predefined names and domains. You can specify the number of combinations you'd like to generate, and the script will create a unique email and password pair for each entry. It's perfect for testing purposes, `educational purposes`, account creation automation, or just for fun!
+A very simple python code that generates random email-password combinations using a list of predefined names and domains. You can specify the number of combinations you'd like to generate, and the script will create a unique email and password pair for each entry. It's perfect for testing purposes, `educational purposes`, account creation automation, or just for fun!
 # Format
 `Email:Pass`
 
